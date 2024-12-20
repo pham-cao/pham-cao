@@ -15,23 +15,3 @@ I'm FamCao ! <br>
 
 # ⚡ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pham-cao&show_icons=true&theme=radical)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pham-cao&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-|:------------:|:-------------:|
-
-
-# Tutorial
-## 
-## [*2. Supervised learning*](https://github.com/pham-cao/Tutorial/tree/main/Supervised%20learning)
-## [*3. Unsupervised learning*](https://github.com/pham-cao/Tutorial/tree/main/Supervised%20learning)
-## [*4. Deeplearning*](https://github.com/pham-cao/Tutorial/tree/main/Deeplearning)
-
-
-
-# Personal Project
-## ComputerVision
-## NLP
-## Reinforcement learning
-
-|Họ và tên | Giới tính|Dân tộc|
-|:---|:----------------:|----:|
-| [*2. Supervised learning*](https://github.com/pham-cao/Tutorial/tree/main/Supervised%20learning) |  [*2. Supervised learning*](https://github.com/pham-cao/Tutorial/tree/main/Supervised%20learning)|
-| [*2. Supervised learning*](https://github.com/pham-cao/Tutorial/tree/main/Supervised%20learning)| [*2. Supervised learning*](https://github.com/pham-cao/Tutorial/tree/main/Supervised%20learning)|
